@@ -6,3 +6,5 @@
 _______________________________________________
 
 ## Discount_Design.pdf contains Design
+
+## Test_coverage.JPG contains Test coverage
