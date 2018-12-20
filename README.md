@@ -1,1 +1,1 @@
-# Discount
+# Shopping Cart Discount Module
