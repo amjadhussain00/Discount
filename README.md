@@ -8,3 +8,5 @@ _______________________________________________
 ## Discount_Design.pdf contains Design
 
 ## Test_coverage.JPG contains Test coverage
+#### eclemma is used generate code coverage report
+https://marketplace.eclipse.org/content/eclemma-java-code-coverage
